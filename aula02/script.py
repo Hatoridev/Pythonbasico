@@ -11,7 +11,7 @@ def conversa():
     print("Lucas: 18:00h")
     input("Pressione Enter para prosseguir...")
 
-    conversa()
+conversa()
 
 def ligacao():
     print("Geovana: Alô?")
